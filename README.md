@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Chunxu
 
-<!--
-**chunxubioinfor/chunxubioinfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Bioinformatics & Multi-omics | 🌊 Coastal & Estuarine Modeling | 🤖 Data Automation  
+Master’s student @ DTU | Thesis @ Novo Nordisk Cell Therapy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I work on
+- Isoform-level transcriptomics & proteomics (IsoformSwitchAnalyzeR v2)
+- scRNA-seq batch comparability & QC scoring
+- Estuarine water exchange, salinity & nutrient budgets
+- AI-powered job-matching & data pipelines
+
+---
+
+## 📊 Live Dashboards
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chunxubioinfor&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunxubioinfor&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chunxubioinfor&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+
+---
+
+## 📫 Find me
+LinkedIn · Google Scholar · GitHub
