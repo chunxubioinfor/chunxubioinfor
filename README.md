@@ -20,12 +20,6 @@ Master’s student @ DTU | Thesis @ Novo Nordisk Cell Therapy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunxubioinfor&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chunxubioinfor&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/output/github-contribution-grid-snake-dark.svg" />
