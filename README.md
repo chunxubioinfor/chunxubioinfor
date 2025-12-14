@@ -26,6 +26,11 @@ Master’s student @ DTU | Thesis @ Novo Nordisk Cell Therapy
 </p>
 
 
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 📫 Find me
