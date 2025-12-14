@@ -60,7 +60,7 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=chunxubioinfor&style=for-the-badge&color=blueviolet" />
-  <a href="https://www.buymeacoffee.com/chunxu" target="_blank">
+  <a href="[https://www.buymeacoffee.com/chunxu" target="_blank](https://buymeacoffee.com/chunxuhan)">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
   </a>
 </p>
