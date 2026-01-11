@@ -12,18 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
         with:
           USERNAME: chunxubioinfor
-          THEME: tokyonight
-          OUTPUT_DIR: dist
-
-      - name: Publish to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          BRANCH_NAME: output
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
+          # EXCLUDE: "Jupyter Notebook"
