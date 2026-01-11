@@ -42,6 +42,27 @@
   
 </p>
 
+
+## 📊 Live Dashboards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chunxubioinfor&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chunxubioinfor&theme=tokyonight&exclude=Jupyter%20Notebook" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chunxubioinfor&theme=tokyonight&exclude=Jupyter%20Notebook" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chunxubioinfor&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chunxubioinfor&theme=tokyonight&utcOffset=1" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 📊 Live Dashboards
