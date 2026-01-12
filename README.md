@@ -49,10 +49,11 @@
 ## 📊 Live Dashboards
 
 <!-- Keep both cards same height; card_width helps alignment -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chunxubioinfor&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunxubioinfor&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
-</p>
+
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/output/github-contribution-grid-snake-dark.svg" />
