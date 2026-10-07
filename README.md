@@ -11,7 +11,7 @@
 
 <p align="left">
   <b>🧬 Bioinformatics & Multi-omics</b> ·  <b>🔢 Data Analysis</b>  ·  <b>🤖 AI Agent</b><br/>
-  <i>Master’s student @ DTU & Novo Nordisk</i> 
+  <i>Research Assistant @ DTU</i> 
 </p>
 
 ---
